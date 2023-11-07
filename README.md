@@ -1,4 +1,4 @@
-# pixconvert
+# pixelconvert
 
 # How To Install
 
