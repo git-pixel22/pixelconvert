@@ -24,5 +24,5 @@ pixelconvert <image-path> <format-to-convert-to>
 pixelconvert imageName.png jpeg
 ```
 ``` 
-pixelconvert imageName.jpeg> png
+pixelconvert imageName.jpeg png
 ```
