@@ -21,8 +21,8 @@ pixelconvert <image-path> <format-to-convert-to>
 
 # Example
 ```
-pixelconvert <Image.png> <jpeg>
+pixelconvert imageName.png jpeg
 ```
 ``` 
-pixelconvert <Image.jpeg> <png>
+pixelconvert imageName.jpeg> png
 ```
