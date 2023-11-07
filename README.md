@@ -1,3 +1,5 @@
+# below conversions are supported currently
+ - png -> jpeg (vice-versa)
 
 # How To Install
 ``` 
