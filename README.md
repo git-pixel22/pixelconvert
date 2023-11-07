@@ -1,4 +1,4 @@
-# below conversions are supported currently
+# Supported conversions listed below
  - png -> jpeg (vice-versa)
 
 # How To Install
