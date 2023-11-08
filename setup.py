@@ -20,7 +20,7 @@ setuptools.setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
-    install_requires=["Pillow"],
+    install_requires=["Pillow", "pdf2docx"],
     packages=setuptools.find_packages(),
     python_requires=">=3.6",
     entry_points={
