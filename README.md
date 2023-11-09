@@ -1,7 +1,10 @@
-# Supported conversions listed below
+# 🟩 Supported conversions listed below
  - png -> jpeg (vice-versa)
+ - docx -> pdf (vice-versa)
 
-# How To Install
+# 🟥 Do No Try To Test Its Flexibility, It'll Break 😅😂
+
+# 🧑‍🏫 How To Install
 ``` 
 git clone https://github.com/git-pixel22/pixelconvert.git
 ```
