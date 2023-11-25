@@ -1,6 +1,6 @@
 # 🟩 Supported conversions listed below
- - png -> jpeg (vice-versa)
- - docx -> pdf (vice-versa)
+ - PNG -> JPEG (vice-versa)
+ - DOCX -> PDF (vice-versa)
 
 # How To Install
 ``` 
